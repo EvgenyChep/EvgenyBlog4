@@ -88,24 +88,24 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "stepanyo3@yandex.ru"
-phone = "89296027322"
+email = "evgenchep@yandex.ru"
+phone = "89999777753"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Старокачаловская", city = "Москва", postcode = "117216", country = "Россия", country_code = "РУ"}
+address = {street = "Leninskaya", city = "Moscow", postcode = "115543", country = "Russia", country_code = "RU"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "55.4507", longitude = "37.3656"}
 
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "keybase", icon_pack = "fab", name = "VK", link = "https://vk.com/sergeev_stepan"},
-  {icon = "comments", icon_pack = "fas", name = "Instagram", link = "https://www.instagram.com/stepanyo_official/"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Arakshi"},
+  {icon = "keybase", icon_pack = "fab", name = "VK", link = "https://vk.com/evgenchep"},
+  {icon = "comments", icon_pack = "fas", name = "Instagram", link = "https://www.instagram.com/evgenchep/"},
+  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@evgenchep"},
   ]
 
 ############################

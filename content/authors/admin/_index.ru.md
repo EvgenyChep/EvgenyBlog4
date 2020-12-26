@@ -30,10 +30,10 @@ social:
   link: https://twitter.com/
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/scholar?
+  link: https://scholar.google.ru/citations?view_op=list_works&hl=ru&user=cRKYoucAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/
+  link: https://github.com/EvgenyChep
 superuser: true
 title: Чепыгов Евгений Алексеевич
 user_groups:

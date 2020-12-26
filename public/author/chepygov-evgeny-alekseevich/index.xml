@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chepygov Evgeny Alekseevich | Chepygov E.A.</title>
+    <link>/author/chepygov-evgeny-alekseevich/</link>
+      <atom:link href="/author/chepygov-evgeny-alekseevich/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chepygov Evgeny Alekseevich</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Chepygov Evgeny Alekseevich</title>
+      <link>/author/chepygov-evgeny-alekseevich/</link>
+    </image>
+    
+    <item>
+      <title>System for automatic estimation of the value of a used car</title>
+      <link>/post/jupyter/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/jupyter/</guid>
+      <description>&lt;p&gt;This study addresses the design of an information system for online vehicle valuation based on machine learning. Until recently, the question of appraising the value of a vehicle (TC) was delegated exclusively to specialist appraisers who are experts in this matter. A significant drawback of this approach is the significant time and cost of the appraisers. At the same time, car owners often need to quickly and roughly assess the value of the vehicle based on its main characteristics in real time. With the active development of methods and algorithms for machine learning, it becomes possible to create expert systems that can replace specialists in solving certain problems. One of such tasks is real-time estimation of the cost of a vehicle with acceptable quality. To develop a service for online valuation of a vehicle, in addition to creating the valuation algorithms themselves, it is required to design its high-level model. Modern practice shows that this approach is most effective for the development of complex structured systems that require the involvement of various specialists. In this study, on the one hand, a high-level model of the designed system is considered in the form of a conceptual and logical scheme, and on the other hand, an approach to the automatic assessment of the cost of a vehicle based on its characteristics using an artificial neural network is proposed. The unified modeling language UML, which is the industry standard, was chosen as a means of creating an information system model.&lt;/p&gt;
+&lt;h2 id=&#34;estimating-cost-values-using-machine-learning&#34;&gt;Estimating Cost Values Using Machine Learning&lt;/h2&gt;
+&lt;p&gt;To conduct research on predicting the price of vehicles, a database of used vehicles was compiled containing more than 200 records. The following characteristics are available for each car: car brand, year of car production, engine power, engine type, engine size, vehicle mileage, price. It is necessary to perform data processing and train the network. First, you need to give an array of initial data as input, on which the network will train, then add the data to the output. We are interested in a matrix with nonlinear series. The characteristic values ​​are preprocessed in a form suitable for further analysis.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;After the neural network is trained on the training sample (dataset), the network must have good generalizing ability. Those are the ability of the neural network to reproduce the input data when submitting to its input the data that participated in the training process. The initial set of the training sample is divided into three subsets: training - training the network, validation - stopping training, test - the overall assessment of the network.&lt;/p&gt;
+&lt;p&gt;Read completely: &lt;a href=&#34;https://www.elibrary.ru/item.asp?id=42760845&#34;&gt;https://www.elibrary.ru/item.asp?id=42760845&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

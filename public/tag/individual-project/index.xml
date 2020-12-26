@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Individual project | Chepygov E.A.</title>
+    <link>/tag/individual-project/</link>
+      <atom:link href="/tag/individual-project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Individual project</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Individual project</title>
+      <link>/tag/individual-project/</link>
+    </image>
+    
+    <item>
+      <title>Individual project</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Project presentation&lt;/p&gt;
+&lt;p&gt;The project at every stage is presented&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;in the form of a report in Markdown,&lt;/li&gt;
+&lt;li&gt;pdf file obtained from Markdown,&lt;/li&gt;
+&lt;li&gt;video recording of project preparation,&lt;/li&gt;
+&lt;li&gt;video recording of the project presentation (2–5 minutes).&lt;/li&gt;
+&lt;li&gt;Stages of project presentation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;Placing a blank for a personal site on Github. The site must contain:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;a photo of the site owner;&lt;/li&gt;
+&lt;li&gt;a short description of the site owner.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Add the following elements to the site:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;interests;&lt;/li&gt;
+&lt;li&gt;education;&lt;/li&gt;
+&lt;li&gt;links to scientific and bibliometric resources:&lt;/li&gt;
+&lt;li&gt;eLibrary;&lt;/li&gt;
+&lt;li&gt;Google Scholar&lt;/li&gt;
+&lt;li&gt;ORCID&lt;/li&gt;
+&lt;li&gt;Mendeley&lt;/li&gt;
+&lt;li&gt;ResearchGate&lt;/li&gt;
+&lt;li&gt;Academia.edu&lt;/li&gt;
+&lt;li&gt;arXiv&lt;/li&gt;
+&lt;li&gt;github&lt;/li&gt;
+&lt;li&gt;Make a blog entry.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Add all other elements from the site.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Make notes for group and personal projects.&lt;/li&gt;
+&lt;li&gt;Add publications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Placing a bilingual site on Github.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Support for English and Russian.&lt;/li&gt;
+&lt;li&gt;The main elements of the site in both languages.&lt;/li&gt;
+&lt;li&gt;Main content in both languages.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

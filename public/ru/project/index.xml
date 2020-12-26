@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Чепыгов Е.А.</title>
+    <link>/ru/project/</link>
+      <atom:link href="/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/ru/project/</link>
+    </image>
+    
+    <item>
+      <title>Групповой проект</title>
+      <link>/ru/project/external-project/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/ru/project/external-project/</guid>
+      <description>&lt;p&gt;Представление проекта: Модели двух конкурирующих фирм&lt;/p&gt;
+&lt;p&gt;Проект на каждом этапе представляется в виде презентации. Время представления – 2–5 минут.&lt;/p&gt;
+&lt;p&gt;Этапы представления проекта&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Модель. Презентация по научной проблеме. Теоретическое описание
+задачи. Описание модели.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Алгоритмы. Презентация по алгоритмам решения задачи.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Комплексы программ. Описание программной реализации проекта.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Защита проекта. Коллективное обсуждение результата проекта, самооценка деятельности.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Результаты:&lt;/p&gt;
+&lt;p&gt;Для построения модели конкуренции двух фирм рассмотрели модель одной фирмы&lt;/p&gt;
+&lt;p&gt;Подобрали алгоритмы решения и получили динамики изменения объемов продаж&lt;/p&gt;
+&lt;p&gt;Реализовали проект программно.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Индивидуальный проект</title>
+      <link>/ru/project/internal-project/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/ru/project/internal-project/</guid>
+      <description>&lt;p&gt;Представление проекта&lt;/p&gt;
+&lt;p&gt;Проект на каждом этапе представляется&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;в виде отчёта в Markdown,&lt;/li&gt;
+&lt;li&gt;файл pdf, полученный из Markdown,&lt;/li&gt;
+&lt;li&gt;видеозапись подготовки проекта,&lt;/li&gt;
+&lt;li&gt;видеозапись презентации проекта (2–5 минут).&lt;/li&gt;
+&lt;li&gt;Этапы представления проекта&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;Размещение на Github заготовки для персонального сайта. Сайт должен содержать:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;фотографию владельца сайта;&lt;/li&gt;
+&lt;li&gt;краткое описание владельца сайта.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Добавить к сайту следующие элементы:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;интересы;&lt;/li&gt;
+&lt;li&gt;образование;&lt;/li&gt;
+&lt;li&gt;ссылки на научные и библиометрические ресурсы:
+– eLibrary;
+– Google Scholar
+– ORCID
+– Mendeley
+– ResearchGate
+– Academia.edu
+– arXiv
+– github&lt;/li&gt;
+&lt;li&gt;Сделать запись в блоге.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Добавить с сайту все остальные элементы.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Сделать записи для группового и персонального проектов.&lt;/li&gt;
+&lt;li&gt;Добавить публикации.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Размещение двуязычного сайта на Github.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Поддержка английского и русского языка.&lt;/li&gt;
+&lt;li&gt;Основные элементы сайта на обоих языках.&lt;/li&gt;
+&lt;li&gt;Основной контент на обоих языках.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

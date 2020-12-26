@@ -1,44 +1,45 @@
 ---
-bio: Development and innovation
+biography: Education
 education:
   courses:
-  - course: Graduated from GBOU SOSH 2006
+  - course: MAOU SOSH 2
     year: 2016
-  - course: Graduated from Bachelor of Applied Mathematics and Informatics, Fizmat, PFUR
+  - course: Bachelor of Mathematics and Information Technology, Fizmat, RUDN
     institution: Peoples' Friendship University of Russia
     year: 2020
-  - course: I study in the first year of the Master's program in Applied Mathematics and Informatics, Fizmat, RUDN
+  - course: Master's degree in Applied Mathematics and Informatics, Fizmat, RUDN
     institution: Peoples' Friendship University of Russia
     year: 2021
-email: "stepanyo3@yandex.ru"
+email: "evgenchep@yandex.ru"
 highlight_name: false
 interests:
-- 5G technology
-- Finance
 - Information Technology
+- Artificial Intelligence
+- Autonomous control systems for rocket and space technology
+- Sports
 organizations:
-- name: PFUR
+- name: RUDN
   url: http://www.rudn.ru/
-role: 1st year Master of Applied Mathematics and Informatics
-social:
+Role: Master of the RUDN University in Applied Mathematics and Informatics
+Social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: / # contact
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
+  link: https://twitter.com/
+- badge: outlet cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/scholar?scilib=1&hl=ru
+  link: https://scholar.google.ru/citations?view_op=list_works&hl=ru&user=cRKYoucAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/arakshi
+  link: https://github.com/EvgenyChep
 superuser: true
-title: Sergeev Stepan Viktorovich
+name: Chepygov Evgeny Alekseevich
 user_groups:
 - Principal Investigators
 ---
 
 
-Sergeev Stepan Viktorovich 1st year Master of Applied Mathematics and Informatics.
+Chepygov Evgeniy Alekseevich Master of the RUDN University in applied mathematics and informatics.
 

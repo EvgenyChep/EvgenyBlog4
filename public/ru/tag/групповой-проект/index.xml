@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Групповой проект | Чепыгов Е.А.</title>
+    <link>/ru/tag/%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/</link>
+      <atom:link href="/ru/tag/%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <description>Групповой проект</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Групповой проект</title>
+      <link>/ru/tag/%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/</link>
+    </image>
+    
+    <item>
+      <title>Групповой проект</title>
+      <link>/ru/project/external-project/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/ru/project/external-project/</guid>
+      <description>&lt;p&gt;Представление проекта: Модели двух конкурирующих фирм&lt;/p&gt;
+&lt;p&gt;Проект на каждом этапе представляется в виде презентации. Время представления – 2–5 минут.&lt;/p&gt;
+&lt;p&gt;Этапы представления проекта&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Модель. Презентация по научной проблеме. Теоретическое описание
+задачи. Описание модели.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Алгоритмы. Презентация по алгоритмам решения задачи.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Комплексы программ. Описание программной реализации проекта.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Защита проекта. Коллективное обсуждение результата проекта, самооценка деятельности.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Результаты:&lt;/p&gt;
+&lt;p&gt;Для построения модели конкуренции двух фирм рассмотрели модель одной фирмы&lt;/p&gt;
+&lt;p&gt;Подобрали алгоритмы решения и получили динамики изменения объемов продаж&lt;/p&gt;
+&lt;p&gt;Реализовали проект программно.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
